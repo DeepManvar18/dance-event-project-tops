@@ -1,0 +1,192 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(135deg, #121212, #171717);
+  color:#696969;
+}
+
+a {
+  color: #17a2b8; 
+}
+
+a:hover {
+  color: #1392a8; 
+}
+
+/* Navigation */
+
+.navbar {
+  background-color: #171717 !important;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1.1rem;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  background-color: #17a2b8;
+  border-radius: 0.25rem;
+}
+
+/* Homepage */
+
+#home {
+  background: linear-gradient(135deg, #121212, #171717), url('background.jpg') center/cover no-repeat;
+  padding: 10rem 0;
+}
+
+#home h1 {
+  font-size: 3.5rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+#home p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+/* Classes */
+
+#classes {
+  padding: 5rem 0;
+}
+
+#classes h2 {
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+}
+
+/* Services */
+
+#services {
+  padding: 5rem 0;
+}
+
+#services h2 {
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+}
+
+.card {
+  background-color: #252525;
+  border: none;
+  color: #c2c2c2; 
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.card-text {
+  font-size: 1.1rem;
+}
+
+/* About Us */
+
+#about {
+  padding: 5rem 0;
+}
+
+#about h2 {
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+}
+
+/* Testimonials */
+
+#testimonials {
+  padding: 5rem 0;
+}
+
+#testimonials h2 {
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 1.1rem;
+}
+
+/* Gallery */
+
+#gallery {
+  padding: 5rem 0;
+}
+
+#gallery h2 {
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+}
+
+/* Blog/News */
+
+#blog {
+  padding: 5rem 0;
+}
+
+#blog h2 {
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 1.1rem;
+}
+
+/* FAQs */
+
+#faq {
+  padding: 5rem 0;
+}
+
+#faq h2 {
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+}
+
+.card-header button {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #17a2b8; 
+}
+
+.card-body {
+  font-size: 1.1rem;
+}
+
+/* Contact Us */
+
+#contact {
+  padding: 5rem 0;
+}
+
+#contact h2 {
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+}
+
+/* Footer */
+
+footer {
+  background-color: #171717;
+  color: #c2c2c2; 
+  padding: 1.5rem 0;
+}
